@@ -8,8 +8,6 @@
 
 ## Demo
 
-<img width="1366" height="768" alt="Screenshot (521)" src="https://github.com/user-attachments/assets/0d7b0e89-8525-489a-a136-7f9dff4e1fe1" />
-
 [Watch the full walkthrough →](https://drive.google.com/file/d/1TbUfShoEm1eiCXctxxHOnyme-gaX8y4T/view?usp=drivesdk)
 
 ---
